@@ -1,0 +1,22 @@
+nav.navbar.navbar-default {
+    border-radius: 5%;
+    background: #2fa4e7;
+   
+}
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+}
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: -15px;
+    color: #fff;
+}
+.container .row .page-header h1{
+	
+    font-size: 25px;
+    color: #2fa4e7;
+    margin-top: -30px;
+
+}
+.container .alert.alert-success.alert-dismissable {
+    margin-top: 30px;
+}

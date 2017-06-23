@@ -1,0 +1,21 @@
+{
+  "name": "sunguojia",
+  "version": "1.0.0",
+  "description": "sun",
+  "main": "index.js",
+  "scripts": {
+    "test": "123"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^3.4.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-uglify": "^3.0.0"
+  }
+}
